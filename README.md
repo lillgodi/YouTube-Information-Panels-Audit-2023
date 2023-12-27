@@ -5,7 +5,7 @@ an audit collected over four months in 14 different locations to investigate the
 Our experiments collect 309 survey responses and 620 queries used in the audit. Demographic questions were also collected. Here 
 you will find 5 files across two parts: raw survey data, grouping queries, and audit data.\
 
-*To load the json file into a Pandas DataFrame, use the attribute `orient='split`.
+*To load the json file into a Pandas DataFrame, use the attribute `orient='split'`.
 
 **1. Raw data**  
 
