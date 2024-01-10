@@ -1,0 +1,311 @@
+StartDate,search,queries_1,queries_2,queries_3,news freq,age,gender,politics,education
+,Have you ever searched for conspiracy theory topics?,"Please think of any conspiracy theory topics, then enter below three phrases that you have used or would use to search for those topics. - Phrase #1","Please think of any conspiracy theory topics, then enter below three phrases that you have used or would use to search for those topics. - Phrase #2","Please think of any conspiracy theory topics, then enter below three phrases that you have used or would use to search for those topics. - Phrase #3",How often do you get your news from YouTube? ,What is your age range?,What is your gender? ,What is your political affiliation?,What is the highest education level you've completed?
+2021-12-21 15:36:54,Yes,Rock melting in India,Free energy machines,Levitation devices,8,50-59,Male,Hard right,High school
+2021-12-21 15:49:08,Yes,Flat earthers,Who killed JFK?,Where is Bigfoot?,5,50-59,Male,Lean left,High school
+2021-12-21 15:59:00,Yes,chips in vaccine,Kennedy assasination,No moon landing,2,50-59,Male,Hard left,Bachelor's degree
+2021-12-21 16:07:49,No,qanon,jfk,aliens,0,40-49,Male,Hard left,High school
+2021-12-21 16:22:42,Yes,Who are lizard people?,Moon Hoax,Are UFO's being hidden by the government,5,40-49,Female,Hard right,Bachelor's degree
+2021-12-21 16:58:44,Yes,jfk assassination,mkultra,jeffrey epstein murdered,1,30-39,Male,Hard right,Bachelor's degree
+2021-12-21 17:36:05,Yes,alien abduction,vaccine misconceptions,government tracking,2,40-49,Female,Lean left,"Graduate degree (M.D., J.D., PhD, etc.)"
+2021-12-21 18:33:23,No,moon landing,JFK shooting ,COVID cell phone,0,30-39,Male,Lean left,"Graduate degree (M.D., J.D., PhD, etc.)"
+2021-12-21 18:41:52,No,qanon,Jan 6,covid19,7,30-39,Female,Moderate/centrist,Associate's degree
+2022-01-24 13:47:39,Yes,911 planes,sandy hook,boston marathon,0,50-59,Male,Hard left,High school
+2022-01-24 13:58:13,No,qanon,government coverup,fake news,0,30-39,Female,Hard left,Bachelor's degree
+2022-01-24 13:58:54,Yes,flat earth,reptillian,chips in vaccine,5,30-39,Male,Moderate/centrist,High school
+2022-01-24 14:27:40,No,what really happened,fake news,cover up,3,30-39,Male,Lean left,Bachelor's degree
+2022-01-24 14:45:44,No,anti vaxx,stolen election,JFK,0,60+,Male,Lean left,High school
+2022-01-24 14:51:40,Yes,Illuminati,Agenda 2030,Aliens,8,40-49,Male,Lean right,Bachelor's degree
+2022-01-24 15:26:18,Yes,flat earth stars,flu disappeared,remvesidir,1,60+,Female,Prefer not to say,Bachelor's degree
+2022-01-24 16:13:35,No,fake moon landing,9/11 inside job,jfk assassination conspiracy,0,30-39,Male,Hard left,Bachelor's degree
+2022-01-29 13:59:32,No,bermuda theories ,alien abductions,atlantis,0,30-39,Female,Moderate/centrist,High school
+2022-01-29 13:59:36,Yes,New World Order,One World Government,Fake Moon Landing,4,40-49,Male,Lean right,"Graduate degree (M.D., J.D., PhD, etc.)"
+2022-01-29 14:03:25,Yes,9-11 attack ,Kennedy shooting ,Covid vaccinations ,0,50-59,Female,Hard left,High school
+2022-01-29 14:12:07,No,UFO coverup,faked moon landing,JFK's assassination,3,30-39,Male,Lean right,Bachelor's degree
+2022-01-29 14:25:32,Yes,kennedy assassination,911 truth,roswell,10,50-59,Male,Lean left,High school
+2022-01-29 14:23:03,Yes,jimmy hoffa death,aliens working as CIA,illuminati,10,30-39,Female,Hard left,High school
+2022-01-29 15:39:36,No,JFK's assisination,Aliens and UFOs,Moon Landing Fake,0,30-39,Female,Moderate/centrist,Bachelor's degree
+2022-01-29 16:01:15,Yes,who killed JFK?,are aliens real?,who is behind bitcoin?,8,40-49,Male,Hard right,"Graduate degree (M.D., J.D., PhD, etc.)"
+2022-01-31 14:23:03,No,conspiracies,illumninati,secrets,0,40-49,Male,Moderate/centrist,High school
+2022-01-31 14:36:36,Yes,was 9/11 orchestrated ,is the government behind 9/11,did the government knock down the twin towers,7,30-39,Female,Hard left,"Graduate degree (M.D., J.D., PhD, etc.)"
+2022-01-31 14:41:38,Yes,mandela effect,9/11 real or fake,coronavirus came from lab,1,40-49,Female,Lean right,High school
+2022-01-31 14:45:43,Yes,david icke,reptilians,illuminati,4,30-39,Female,Lean left,Associate's degree
+2022-01-31 15:00:15,Yes,jfk,moon landing,aliens,1,30-39,Male,Hard left,Associate's degree
+2022-01-31 16:21:00,No,JFK assassination,flat earth,moon landing,2,30-39,Male,Hard left,Associate's degree
+2022-01-31 16:27:24,Yes,what is it really when planes fly in the air,What kind of chemicals are being put in our food,how are hot dogs really made,9,30-39,Female,Moderate/centrist,Bachelor's degree
+2022-02-05 9:46:37,Yes,did we really land on the moon,are aliens real,did the government supply crack to America,2,40-49,Female,Moderate/centrist,Bachelor's degree
+2022-02-05 9:54:07,Yes,covid vaccine nanobots,JFK assassination conspiracy,fake moon landing,3,40-49,Male,Lean left,Bachelor's degree
+2022-02-05 9:52:41,Yes,moon landing hoax,building 7 twin towers,magic bullet theory,3,50-59,Male,Moderate/centrist,Bachelor's degree
+2022-02-05 9:56:38,,moon landing fake,earth is flat,john f kennedy inside job,0,50-59,Male,Lean left,Less than high school
+2022-02-05 10:15:53,Yes,false facts,True or false,Never solved,8,50-59,Male,Lean left,High school
+2022-02-05 10:19:58,Yes,moon landing,9/11,2020 election,3,60+,Male,Moderate/centrist,Bachelor's degree
+2022-02-05 10:37:28,No,moon landing,flat earth,global warming,1,50-59,Female,Moderate/centrist,"Graduate degree (M.D., J.D., PhD, etc.)"
+2022-02-05 10:38:20,Yes,aliens exist,911 is fake,us did not land on the moon,9,30-39,Male,Lean left,Bachelor's degree
+2022-02-05 11:16:45,Yes,fed conspiracies,9/11 truth,bilderberg,3,30-39,Male,Moderate/centrist,High school
+2022-02-05 11:39:11,No,Trump Conspiracy Theories,Gun Control conspiracy theories,Crazy conspiracy theories,1,60+,Female,Lean right,Bachelor's degree
+2022-02-05 11:41:07,No,JFK assassination,9/11 hoaxes,looking for Bigfoot,2,50-59,Female,Moderate/centrist,"Graduate degree (M.D., J.D., PhD, etc.)"
+2022-02-05 11:45:02,Yes,Aliens,Big Government,Great reset,2,30-39,Male,Moderate/centrist,Bachelor's degree
+2022-02-05 12:43:17,Yes,voting scams,Elvis is alive,Moon landing did not happen,1,40-49,Female,Lean right,Bachelor's degree
+2022-02-05 13:03:25,Yes,JFK conspiracy,have we been visited by other life forms,was 9/11 allowed to happen by our own government,2,40-49,Male,Hard left,Bachelor's degree
+2022-02-05 13:40:59,No,conspiracy,fault,untrue,10,60+,Female,Lean left,"Graduate degree (M.D., J.D., PhD, etc.)"
+2022-02-05 13:43:25,Yes,illuminati,have aliens been to earth ,area 51,2,40-49,Female,Moderate/centrist,High school
+2022-02-05 14:12:03,Yes,mlk fbi,mlk killed by govt,mlk conspiracy,0,30-39,Female,Lean right,Bachelor's degree
+2022-02-05 14:22:58,Yes,John F Kennedy ,UFOs ,paranormal,5,40-49,Female,Moderate/centrist,Associate's degree
+2022-02-05 15:42:43,Yes,ufos,kennedy assasinaation,moon landing,2,60+,Male,Lean right,High school
+2022-02-05 16:23:39,Yes,Illuminati,Climate change ,Celebrity clones,10,30-39,Female,Hard left,Bachelor's degree
+2022-02-05 16:23:29,Yes,9/11 inside job,moon landing hoax,roswell crash conspiracy,4,18-29,Male,Lean left,Bachelor's degree
+2022-02-05 17:59:39,Yes,Government Conspiracies,Twin Tower Theories,UFO & Goverment,4,60+,Female,Lean left,Bachelor's degree
+2022-02-05 22:18:09,Yes,ufos,illuminati,shadow government,0,50-59,Male,Lean left,"Graduate degree (M.D., J.D., PhD, etc.)"
+2022-02-05 23:44:25,Yes,russia collusion,kennedy assassination,great reset,7,50-59,Male,Lean right,High school
+2022-02-06 5:02:03,Yes,JOHN KENNEDY,ASSASINATION,PRESIDENT,6,50-59,Female,Lean left,Bachelor's degree
+2022-02-06 5:55:50,No,government is hiding information,COVID vaccine implanting chips,secret aliens on planets,0,60+,Female,Moderate/centrist,High school
+2022-02-06 6:34:32,Yes,Alex Jones,New World Order,Globalist agenda,7,30-39,Male,Lean right,Bachelor's degree
+2022-02-06 11:39:07,Yes,conspiracy,conspiracy theory,fake news,3,60+,Female,Lean right,Bachelor's degree
+2022-02-06 12:24:40,Yes,9/11 conspiracy theory,Moon Landing Hoax,Sandy Hook shooting actors ,2,30-39,Female,Hard left,Associate's degree
+2022-02-06 13:21:57,No,conspiracy theories,conspiracy,theories that are a conspiracy,1,30-39,Female,Moderate/centrist,High school
+2022-02-07 7:16:51,Yes,9/11,twin towers,spare change,0,30-39,Female,Lean left,Bachelor's degree
+2022-02-07 7:14:00,Yes,Covid 19 origins,Covid made by China lab,Covid escaped lab,4,40-49,Female,Moderate/centrist,Associate's degree
+2022-02-07 7:41:17,Yes,Covid Shot Magnetic,9/11 conspiracy,Celebs are lizards,3,30-39,Female,Moderate/centrist,Associate's degree
+2022-02-07 8:52:14,Yes,top conspiracy theories ,was 911 an inside job,qanon,0,30-39,Female,Lean left,High school
+2022-02-07 9:14:33,No,exposing conspiracy theorists,why do people believe conspiracy theories,crazy conspiracy theories,0,30-39,Male,Lean left,High school
+2022-02-07 10:06:54,No,illuminati,lizard men,one world order,2,40-49,Male,Lean left,Bachelor's degree
+2022-02-07 11:19:58,No,conspiracy theories,government coverups,mandela effect,2,40-49,Female,Hard left,"Graduate degree (M.D., J.D., PhD, etc.)"
+2022-02-07 11:22:30,No,conspiracy,election consipracy,covid conspiracy,0,50-59,Female,Lean left,Bachelor's degree
+2022-02-07 11:21:55,Yes,9/11 inside job,Coronavirus wuhan lab,Melania Trump double,1,30-39,Male,Lean left,High school
+2022-02-07 11:23:45,No,9/11 who really did it,Is the government hiding aliens,How is the world flat,7,30-39,Male,Moderate/centrist,High school
+2022-02-07 11:23:32,No,UFO coverup,secret society plans,hidden government agencies,2,40-49,Male,Lean left,"Graduate degree (M.D., J.D., PhD, etc.)"
+2022-02-07 11:28:54,Yes,philadelphia experiment,9/11,trump,9,30-39,Male,Lean right,Associate's degree
+2022-02-07 11:21:07,Yes,Kennedy assassination,9/11 conspiracy,Roswell UFO ,0,60+,Female,Hard left,Bachelor's degree
+2022-02-07 11:40:27,No,N/A,N/A,N/A,1,40-49,Male,Lean right,Bachelor's degree
+2022-02-07 11:38:49,Yes,Hydroxychloroquine helps to treat covid,Covid vaccines deaths,ivermectin treatment studies,3,40-49,Female,Hard left,"Graduate degree (M.D., J.D., PhD, etc.)"
+2022-02-07 11:49:31,Yes,Pizzagate,Q drops,9/11 truther,3,30-39,Female,Lean right,Bachelor's degree
+2022-02-07 11:52:29,No,fake moon landing,martin luther king jr fbi,jfk lone gunman,0,30-39,Female,Lean left,Associate's degree
+2022-02-07 11:58:19,Yes,Moon landing real,911 planned,covid 19 plandemic,8,40-49,Male,Lean right,Bachelor's degree
+2022-02-07 12:14:21,Yes,who did 9/11,Epstein didnt kill himself,faked moon landing,9,30-39,Male,Lean right,Bachelor's degree
+2022-02-07 12:09:05,Yes,Roswell UFO,Who really killed JFK,Alien conspiracies,6,30-39,Male,Lean left,Associate's degree
+2022-02-14 14:30:36,Yes,moon landing filmed in Hollywood,Elvis not really dead,JFK Jr. Didn't die in Airplane,1,40-49,Female,Hard left,High school
+2022-02-14 14:32:28,Yes,Russia Collusion,flat earth,bigfoot,3,30-39,Male,Lean right,High school
+2022-02-14 14:33:13,No,COVID was made in lab,Chips are inside COVID vaccines,Govt is hiding UFOs,0,50-59,Female,Lean left,Associate's degree
+2022-02-14 14:36:34,No,illuminati,ufo,deep state,4,30-39,Male,Lean left,High school
+2022-02-14 14:37:01,Yes,moon landing fake,flat earth ,kennedy assassination conspiracy,1,30-39,Male,Hard left,Bachelor's degree
+2022-02-14 14:47:22,Yes,Covid-19 conpsiracy theories,government conspiracy theories ,what are chem trails?,3,30-39,Male,Moderate/centrist,Bachelor's degree
+2022-02-14 14:49:11,Yes,Illuminati,Project Bluebeam,9/11 conspiracy,6,30-39,Male,Lean right,Associate's degree
+2022-02-14 14:58:33,Yes,most believed conspiracy theories,top conspiracy theories,big conspiracy theories,1,30-39,Male,Lean left,High school
+2022-02-14 15:04:49,Yes,unbelievable stories,myths that persist,fake news,6,40-49,Male,Lean right,"Graduate degree (M.D., J.D., PhD, etc.)"
+2022-02-14 15:09:29,Yes,OKC bombing second suspect,Timothy McVeigh black ops,"Aberration in the Heartland of the Real: The Secret Lives of Timothy McVeigh"" by Wendy S. Painting, PHD",3,18-29,Male,Hard left,High school
+2022-02-14 15:19:15,Yes,hawaii chemtrails,pizzagate adrenochrome,vaccine bloody spikes,1,40-49,Male,Hard left,Bachelor's degree
+2022-02-14 15:26:18,No,man on the moon,obama birth certificate,covid origin,8,40-49,Male,Moderate/centrist,High school
+2022-02-14 16:04:20,Yes,jfk,ufos,911,0,30-39,Female,Hard left,High school
+2022-02-15 2:36:44,No,What is in area 51,Did the US government plan 9/11,Why did the US government kill Martin Luther King Jr.,2,30-39,Male,Lean right,Bachelor's degree
+2022-02-15 2:49:06,Yes,911 plane crash,ufo sightings,area 51,3,18-29,Male,Moderate/centrist,Associate's degree
+2022-02-15 15:40:31,Yes,covid ,government,aliens,8,40-49,Male,Lean left,Bachelor's degree
+2022-02-15 18:43:59,No,origin of Q,scientific evidence,educational level,2,50-59,Male,Lean left,Bachelor's degree
+2022-02-16 0:49:49,Yes,flat earth,didn't go the moon....and that is true,unrelenting body odor from leftist nutjob females that is impossible to cover up ,0,40-49,Male,Hard right,Bachelor's degree
+2022-02-16 11:16:03,Yes,redlining ,gerrymandering ,Russian tampering of the 2016 election ,10,30-39,Male,Moderate/centrist,Bachelor's degree
+2022-02-17 11:09:58,Yes,JOHN F. KENNEDY'S ASSASSINATION,ROSWELL CRASH & COVER-UP,PROTOCOLS OF THE ELDERS OF ZION,7,30-39,Male,Moderate/centrist,High school
+2022-02-18 7:46:31,Yes,unsolved mysteries,ancient aliens,government coverup,1,40-49,Female,Hard left,Bachelor's degree
+2022-02-18 17:53:48,Yes,moon landing hoax,atlantis,jfk ,4,30-39,Male,Lean right,High school
+2022-02-18 18:22:28,No,covid origins,vaccine tracking,nazi moon bases,8,40-49,Male,Lean left,Bachelor's degree
+2022-02-18 18:52:19,Yes,Reptilians,Illuminati,Jews are aliens,6,30-39,Male,Hard right,Bachelor's degree
+2022-02-18 21:58:23,Yes,Government did 911,Fake moon landing ,Plandemic,7,30-39,Male,Lean right,"Graduate degree (M.D., J.D., PhD, etc.)"
+2022-02-18 23:11:22,Yes,China tik tok dumbing down other countries,USA democrats are owned by chinese,JFK was assassinated by powerful forces in the government for regime change,9,30-39,Male,Lean right,Less than high school
+2022-02-19 4:40:13,Yes,Cryptids,David Paulides,Freemasons,4,40-49,Male,Lean right,Bachelor's degree
+2022-02-19 6:49:24,Yes,moon landing is not real,vaccines causes autism,911 was an inside job,8,40-49,Male,Hard left,Bachelor's degree
+2022-02-19 7:18:53,Yes,vaccines,lizard people,truth behind covid,2,40-49,Male,Lean right,Bachelor's degree
+2022-02-19 7:40:59,No,antivax,birds,illuminati,1,30-39,Female,Lean left,Bachelor's degree
+2022-02-19 8:02:22,No,covid made in lab,covid government lab,covid spread intentionally,0,50-59,Female,Lean left,Bachelor's degree
+2022-02-20 19:18:51,No,aliens,5g towers,mole people,5,30-39,Male,Lean left,High school
+2022-02-21 8:57:59,,"Ivermectin truly helps with COVID, but government is covering it up",JFK was killed by multiple people,"Martin Luther King, Jr. was killed by US government",6,40-49,Female,Lean right,Bachelor's degree
+2022-02-14 16:41:02,Yes,9/11 let it happen on purpose,covid fauci gain of function,comet pizza paintings,2,40-49,Male,Hard right,Associate's degree
+2022-02-21 15:07:54,Yes,hollow moon,faked moon landing,single JFK shooter,3,40-49,Male,Hard left,Bachelor's degree
+2022-02-22 14:00:07,No,fake moon landing,JFK second shooter,Area 51 aliens,3,40-49,Female,Moderate/centrist,Bachelor's degree
+2022-02-22 14:00:12,Yes,The magic bullet theory,911 building collapse,The gulf of Tonkin incident,8,40-49,Male,Hard left,High school
+2022-02-22 14:13:24,Yes,Moon landing was fake,Bill gates weather control,Chemtrails population control,10,40-49,Male,Moderate/centrist,Bachelor's degree
+2022-02-22 14:06:29,Yes,aliens,jfk assassination,9-11 hoax,3,40-49,Male,Moderate/centrist,Bachelor's degree
+2022-02-22 14:56:01,Yes,conspiracy video,unexplained videos,unsolved mysteries,0,30-39,Male,Moderate/centrist,Bachelor's degree
+2022-02-22 15:02:06,Yes,ufo sightings,cryptids,government coverups,4,30-39,Male,Lean left,Bachelor's degree
+2022-02-22 17:54:56,Yes,government conspiracy,JFK's assassination,alien conspiracy,8,50-59,Female,Lean left,Associate's degree
+2022-02-23 7:01:54,Yes,Princess Diana's Death ,Holocaust myths,JFK's Assignation ,3,40-49,Female,Moderate/centrist,Associate's degree
+2022-02-23 11:42:22,No,moon landing fake,lizard people,luminate ,1,40-49,Female,Moderate/centrist,Associate's degree
+2022-02-23 17:32:12,Yes,moon landing conspiracy,JFK assassination hoax,9/11 government conspiracy,6,50-59,Female,Lean right,Bachelor's degree
+2022-02-27 11:57:32,Yes,Vaccinations,School Shootings,Moon Landing,4,18-29,Male,Hard left,Bachelor's degree
+2022-02-27 11:57:39,No,Biden lost ,Election tampering ,Trump won 2021,0,50-59,Female,Hard left,Bachelor's degree
+2022-02-27 11:58:33,Yes,UFOs,Bigfoot,Secret government facilities,1,50-59,Male,Lean left,Bachelor's degree
+2022-02-27 12:12:52,Yes,Kubrick faked moon landing,JFK assassination conspiracy,Loch Ness monster evidence,3,30-39,Male,Hard left,High school
+2022-02-27 12:16:03,No,moon landing fake,JFK assassination truth,Area 41,2,40-49,Female,Lean left,High school
+2022-02-27 12:19:14,Yes,illuminate,conspiracy theories ,Society conspiracies  ,10,40-49,Female,Hard right,Associate's degree
+2022-02-27 12:22:20,No,9/11 was an inside job,Crisis actors in school shooting,Government controlling the population by releasing deadly viruses,7,30-39,Female,Hard left,High school
+2022-02-27 17:39:54,Yes,jfk,aliens,conspiracy,7,30-39,Male,Lean right,High school
+2022-02-27 22:24:24,Yes,moon landing hoax,president body double,stock market scam,10,30-39,Male,Moderate/centrist,Less than high school
+2022-03-01 19:10:35,Yes,kennedy death,deep state,q anon,2,50-59,Female,Hard right,High school
+2022-03-01 19:27:29,Yes,Who really killed Kennedy?,Do aliens exist?,Was the ping pong ball that David Stern chose when Patrick Ewing was in the draft frozen beforehand?,3,40-49,Male,Moderate/centrist,Bachelor's degree
+2022-03-01 19:38:54,Yes,marilyn monroe and the kennedy's,lizard people,moon landing,3,40-49,Female,Moderate/centrist,Bachelor's degree
+2022-03-02 13:37:23,Yes,moon landing fake,aliens pyramids,vaccine misinformation,2,40-49,Female,Hard left,Bachelor's degree
+2022-03-02 17:38:31,Yes,9/11,Ghosts,MLB Rigged,5,30-39,Male,Moderate/centrist,Associate's degree
+2022-03-04 9:10:03,Yes,Identifying conspiracy theories,psychological research on how conspiracy theories start,Expert guide to conspiracy theories,5,60+,Female,Moderate/centrist,High school
+2022-03-04 20:13:07,Yes,aliens,area 51,unknown,5,40-49,Female,Moderate/centrist,Bachelor's degree
+2022-03-04 21:19:11,Yes,UFO,9-11,JFK,10,50-59,Female,Lean right,Bachelor's degree
+2022-03-05 5:13:41,Yes,9/11/2001,sandy hook,2020 vote,4,50-59,Male,Lean right,High school
+2022-03-06 18:10:02,Yes,911,Election,Trump ,7,40-49,Female,Moderate/centrist,High school
+2022-03-07 15:38:29,Yes,JFK,New World Order,false flag,2,40-49,Male,Lean left,Bachelor's degree
+2022-03-07 15:42:46,Yes,9/11,5g,aliens,5,30-39,Female,Lean left,Bachelor's degree
+2022-03-07 15:51:55,Yes,moon landing fake,jfk conspiracy,covid vaccine conspiracy,9,60+,Female,Lean left,Associate's degree
+2022-03-07 19:33:33,Yes,Did we land on the moon,Who killed JFK,Is Epstein alive?,4,40-49,Male,Lean right,Bachelor's degree
+2022-03-07 21:50:03,No,911,covid,natural disasters,0,50-59,Female,Hard left,High school
+2022-03-08 1:08:01,Yes,UFO Disclosure,Ancient Aliens,CIA False Flags,1,30-39,Male,Hard right,High school
+2022-03-10 14:59:35,Yes,illuminati runs the world,secret societies,do aliens exist,9,30-39,Male,Lean right,Bachelor's degree
+2022-03-12 16:04:47,,bigfoot videos,chemtrail evidence,government chip evidence,0,30-39,Female,Lean left,Bachelor's degree
+2022-03-12 16:07:14,Yes,9/11,annunaki,aliens,6,30-39,Male,Lean right,High school
+2022-03-12 16:15:43,Yes,flat earth,qanon,fake moon landing,6,30-39,Female,Lean left,Bachelor's degree
+2022-03-12 16:16:35,No,election interference,voter fraud,voter interference,1,60+,Female,Lean right,High school
+2022-03-12 16:38:37,Yes,area 51,aliens area 51,conspiracy area 51,3,50-59,Female,Lean left,Associate's degree
+2022-03-12 16:47:00,Yes,9/11 theories,roswell aliens,cia alien coverup,0,30-39,Male,Hard left,High school
+2022-03-12 17:23:21,Yes,2020 election,Alex Jones,Tucker Carlson,7,60+,Female,Hard left,High school
+2022-03-12 17:24:42,Yes,fake news,vaxxer,sheep,8,60+,Female,Lean left,High school
+2022-03-12 17:27:24,No,Moon landing faked,JFK Murder,Covid and 5G,2,40-49,Female,Lean left,Associate's degree
+2022-03-12 17:35:04,No,conspiracy,political ,plot,1,60+,Female,Lean right,Bachelor's degree
+2022-03-12 17:38:59,No,JFK assassination,Dorothy Kilgallen cause of death,existence of aliens,0,60+,Female,Lean left,"Graduate degree (M.D., J.D., PhD, etc.)"
+2022-03-12 18:09:08,,vaccination fears,migrant caravan,JFK assassination,2,60+,Female,Hard left,Bachelor's degree
+2022-03-12 18:42:14,No,911 conspiracy,JFK conspriracy,Trump Russia conspiracy,4,30-39,Female,Lean right,High school
+2022-03-12 18:51:09,Yes,National Security Agency,Project Bluebook,Project MK Ultra,9,30-39,Male,Lean left,Bachelor's degree
+2022-03-12 19:09:23,Yes,moon landing,aliens,JFK,1,30-39,Female,Hard left,Associate's degree
+2022-03-12 19:30:00,No,aliens,tupac death,hitler death,9,30-39,Female,Moderate/centrist,Associate's degree
+2022-03-12 19:29:17,Yes,Qanon,conspiracy theories,TRump ateers,4,50-59,Male,Lean left,High school
+2022-03-13 6:04:15,No,covid hoax,moon landing not real,vaccines have microchips,0,30-39,Female,Hard left,High school
+2022-03-13 6:22:53,No,QAnon,Nazis on the moon,Roswell Area 51,1,50-59,Male,Hard left,Bachelor's degree
+2022-03-13 8:11:12,Yes,J.F. Kennedy assination,hidden facts of murder,Conspiracy,4,60+,Female,Hard right,High school
+2022-03-13 8:26:56,Yes,Q ANON,WUHAN LAB,Q,6,50-59,Female,Lean right,High school
+2022-03-13 9:42:50,Yes,coronavirus wuhan lab theory,freemasons control government,mh370 missing landed on island,3,30-39,Male,Lean left,Bachelor's degree
+2022-03-13 11:42:01,No,elections,trump,celebrity deaths,1,30-39,Female,Prefer not to say,High school
+2022-03-13 12:31:03,No,JFK Assassination,Chemtrails,Trump Pee Tape,1,30-39,Male,Lean left,"Graduate degree (M.D., J.D., PhD, etc.)"
+2022-03-13 13:55:37,Yes,sandy hook conspiracy,russia voting conspiracy,jeffrey epstein suicide conspiracy,1,30-39,Female,Moderate/centrist,Bachelor's degree
+2022-03-13 15:14:02,Yes,government killed JFK,the rich are lizard people,israel controls the usa,6,40-49,Female,Hard left,Associate's degree
+2022-03-13 20:40:40,,who killed JFK,was there actually any evidence of 2020 election fraud,does qanon have any actual good theories,2,30-39,Male,Lean left,Bachelor's degree
+2022-03-13 23:18:48,No,top secret,lizard people,flat earth,1,40-49,Female,Hard left,High school
+2022-03-14 1:10:55,No,vaccine death,votes faked,COVID not real,7,30-39,Female,Moderate/centrist,Associate's degree
+2022-03-14 5:04:07,Yes,Princess Diana murder theories,Moon Landing Hoax,Kennedy Assassination theories,2,40-49,Male,Lean left,Bachelor's degree
+2022-03-14 5:58:23,No,911 conspiracy theory,alien conspiracy theory,illuminati conspiracy theory,0,40-49,Female,Hard left,Associate's degree
+2022-03-14 6:34:00,Yes,Who shot John F. Kennedy?,Did we really land on the moon?,Was the government involved in the 911 attacks?,4,40-49,Male,Moderate/centrist,Bachelor's degree
+2022-03-14 7:35:44,Yes,Wuhan lab leak theory,Building 7 mystery,Missing funds from 911,7,30-39,Male,Lean left,Bachelor's degree
+2022-03-14 8:26:15,Yes,Bohemian Grove,Human-ET contact/UFOs,Pizzagate,2,30-39,Male,Hard left,High school
+2022-03-14 19:07:57,No,UFO,Occult,Bigfoot,2,50-59,Male,Moderate/centrist,High school
+2022-03-14 20:16:11,Yes,mystery,government secrets,controlling the world,9,18-29,Male,Lean right,Bachelor's degree
+2022-03-15 4:46:14,Yes,911 conspiracy,chem trails,non vacciners,1,50-59,Female,Lean left,Associate's degree
+2022-03-15 7:08:46,No,paul mccartney switch,walt disney frozen,kennedy assassination cia,0,40-49,Male,Hard left,Bachelor's degree
+2022-03-15 8:24:53,Yes,aliens,con trails,lizard people,3,30-39,Male,Prefer not to say,High school
+2022-03-15 14:48:16,Yes,russiagate,vaccine,great reset,9,30-39,Male,Moderate/centrist,Associate's degree
+2022-03-15 16:05:51,Yes,do aliens exist,illuminati,secret government,10,30-39,Male,Lean right,Bachelor's degree
+2022-03-15 20:53:46,Yes,illuminati ,Jefferey epstein,edward snowden,6,30-39,Female,Lean left,High school
+2022-03-16 8:06:40,No,Trumps ,Clinton ,Global warming ,6,60+,Male,Lean right,Bachelor's degree
+2022-03-16 10:52:59,Yes,comtrails,one world government,space travel,1,30-39,Female,Moderate/centrist,Associate's degree
+2022-03-16 13:12:31,Yes,Flat Earth,JFK Alive,Qanon beliefs,4,40-49,Female,Lean left,Associate's degree
+2022-03-16 19:26:25,Yes,real conspiracy theories ,conspiracy theories that ended up being true,debunked conspiracies,7,30-39,Male,Lean left,High school
+2022-03-16 21:47:19,Yes,covid origins,2020 election fraud,9/11 inside job,9,30-39,Male,Lean right,Associate's degree
+2022-03-17 8:13:05,Yes,September 11th Conspiracy ,Fema Tents,Aliens and UFOS,9,18-29,Male,Lean right,Associate's degree
+2022-03-17 20:18:44,Yes,election fraud,simulation theory,kennedy grassy knoll,10,30-39,Female,Hard right,"Graduate degree (M.D., J.D., PhD, etc.)"
+2022-03-18 9:40:26,Yes,ukraine biolabs,bilderberg,jeffrey epstein,7,30-39,Male,Lean left,High school
+2022-03-18 10:39:01,Yes,Lizard people,Covid made in a lab,Flat earth,5,30-39,Male,Hard left,Associate's degree
+2022-03-18 12:41:51,Yes,landing on the moon,princess Diana's death,JFK assignation,2,40-49,Male,Lean left,Associate's degree
+2022-03-18 12:43:21,No,q anon,flat earth,stolen election,0,40-49,Male,Hard left,"Graduate degree (M.D., J.D., PhD, etc.)"
+2022-03-18 12:42:03,No,vaccine problems,alien coverup,fake moon landing,0,30-39,Female,Moderate/centrist,Bachelor's degree
+2022-03-18 12:44:59,Yes,if the moon landing is real,Roswell crash and cover up with aliens,satanic panic,1,30-39,Female,Moderate/centrist,Associate's degree
+2022-03-18 12:47:02,No,COVID hoax ,fake moon landing,flat earth,1,40-49,Female,Lean left,Bachelor's degree
+2022-03-18 13:27:06,No,9/11 inside job,illuminati,hidden aliens,0,30-39,Female,Lean right,Bachelor's degree
+2022-03-18 13:29:08,Yes,Election stolen from Trump,COVID was planned,Ukraine connection Biden,6,40-49,Male,Lean right,"Graduate degree (M.D., J.D., PhD, etc.)"
+2022-03-18 14:17:03,Yes,Covid19,George Soros,JFK,7,40-49,Male,Lean right,Bachelor's degree
+2022-03-18 14:21:12,Yes,michelle obama male,hydroxychloroquine,bill gates vaccine,4,40-49,Female,Lean left,High school
+2022-03-18 14:53:51,No,the world is ending soon.,there no racism,everyone is hateful,2,60+,Female,Lean left,High school
+2022-03-18 5:14:44,Yes,JFK assination,UFOs,Moon Landing conspiracy,2,50-59,Female,Lean left,"Graduate degree (M.D., J.D., PhD, etc.)"
+2022-03-18 15:21:18,Yes,Princess Diana;s death,Moonlanding,Roswell crash & cover up,2,50-59,Female,Lean left,High school
+2022-03-18 15:56:20,No,alien,deep state,rogue,0,60+,Male,Prefer not to say,Bachelor's degree
+2022-03-19 8:59:11,No,Election fraud,Voting fraud,Trump fraud,4,60+,Female,Lean right,High school
+2022-03-19 10:36:26,Yes,UFO cover ups,Election fraud,Illuminati ,1,40-49,Male,Hard left,Bachelor's degree
+2022-03-19 11:51:14,No,Jewish space lasers,Illegal immigrants allowed to vote,Elvis is still alive,1,50-59,Female,Lean left,Associate's degree
+2022-03-19 15:57:42,Yes,Area 52,Coronavirus made in a lab,Free will doesn't exist ,4,30-39,Female,Lean left,Associate's degree
+2022-03-19 23:22:41,Yes,Kennedy assasination,Area 51,Crack epidemic government,2,50-59,Female,Lean left,Bachelor's degree
+2022-03-20 14:56:17,Yes,JFK,Moon Landing,Trump saving children from horrible abuse,5,50-59,Female,Hard right,Associate's degree
+2022-03-20 15:37:25,Yes,jfk alive,princess diana murder,moon landing hoax,0,30-39,Male,Hard left,"Graduate degree (M.D., J.D., PhD, etc.)"
+2022-03-21 9:35:03,Yes,Top Conspiracy theories,What is considered to be a conspiracy theory,Conspiracy theories I should know about.,0,40-49,Female,Moderate/centrist,High school
+2022-03-21 10:01:05,Yes,jfk,aliens,9/11,0,30-39,Male,Lean left,Associate's degree
+2022-03-21 10:28:28,No,moon landing fake,who killed jfk,aliens,1,30-39,Female,Hard left,Bachelor's degree
+2022-03-21 11:31:31,No,conspiracy theory aliens,conspiracy theory supernatural,conspiracy theory murder,0,30-39,Male,Lean left,Bachelor's degree
+2022-03-21 11:31:43,Yes,WEF,Soros,Zionist Supremacist,7,40-49,Male,Lean right,High school
+2022-03-21 11:54:44,Yes,"""government cover-up""","""world government""","""deep state""",1,40-49,Male,Hard left,Bachelor's degree
+2022-03-21 14:02:37,Yes,Elites run the world,The Clintons are lizards,There are aliens from another planet visiting,10,60+,Female,Moderate/centrist,Bachelor's degree
+2022-03-21 16:28:40,Yes,Agenda 2030,Event 201,New World Order,6,30-39,Male,Hard right,"Graduate degree (M.D., J.D., PhD, etc.)"
+2022-03-21 17:01:28,Yes,UFO video,Illuminati history,Mafia and JFK,6,30-39,Male,Lean right,High school
+2022-03-21 23:05:06,Yes,Aliens,Pharma,Dark web,4,18-29,Male,Lean right,Bachelor's degree
+2022-03-21 23:46:27,No,flat earth proof,new world order,qanon evidence,2,18-29,Female,Lean left,Bachelor's degree
+2022-03-22 7:11:57,Yes,UFOs,illuminati,ancient aliens,1,30-39,Male,Lean left,Associate's degree
+2022-03-22 8:08:23,No,Qanon,JFK death,Wayfair pedophile,0,40-49,Female,Lean left,Bachelor's degree
+2022-03-23 6:12:00,No,Covid was planned by powerful people ,crisis actors in school shootings,aliens existence ,0,30-39,Female,Lean left,Bachelor's degree
+2022-03-23 15:29:42,Yes,JFK second shooter,911 inside job,COVID-19 fake,2,50-59,Female,Moderate/centrist,Associate's degree
+2022-03-24 19:17:15,Yes,Illuminati,New World Order,MK Ultra,5,30-39,Male,Hard right,Bachelor's degree
+2022-03-24 22:15:43,No,Chem trails,Deep state,Government conspiracy,4,30-39,Male,Moderate/centrist,"Graduate degree (M.D., J.D., PhD, etc.)"
+2022-03-26 14:02:08,No,qanon and the election,fake moon landing,JFK assassination,6,60+,Male,Lean right,Bachelor's degree
+2022-03-26 15:21:05,Yes,911 conspiracy theory,Chem trails,Kennedy Death Conspiracy,1,30-39,Female,Moderate/centrist,High school
+2022-03-27 13:28:32,No,JFK assassination,2020 election ,voter fraud,0,60+,Female,Lean left,Bachelor's degree
+2022-03-27 13:39:07,No,911 conspiracy,hidden government secrets,illuminati ,1,40-49,Male,Lean right,Associate's degree
+2022-03-27 13:51:48,Yes,sandy hook fake,911 government involvement,kennedy shooting cover up,3,30-39,Female,Hard left,Bachelor's degree
+2022-03-27 14:41:29,Yes,new world order,bavarian illuminati,Judge Daniel Paul Schreber,6,50-59,Male,Lean right,Associate's degree
+2022-03-27 14:46:53,Yes,aliens real,jfk assassination,area 51,1,30-39,Female,Lean left,Bachelor's degree
+2022-03-27 18:41:19,Yes,9/11 inside job,sandy hook false flag,JFK Jr Trump rally,6,30-39,Female,Lean left,Bachelor's degree
+2022-03-27 19:44:58,,presidential election fraud,moon landing real?,911 theories,1,40-49,Male,Hard right,"Graduate degree (M.D., J.D., PhD, etc.)"
+2022-03-28 8:32:18,Yes,Hunter's laptop,Wuhan lab leak,election fraud,1,50-59,Female,Hard right,Bachelor's degree
+2022-03-28 10:00:10,Yes,covid hoax,Paul McCartney dead,flat earth,0,50-59,Female,Lean left,Associate's degree
+2022-03-28 12:17:35,Yes,qanon,flat earth,reptile people,9,40-49,Male,Lean left,Bachelor's degree
+2022-03-28 12:09:08,Yes,Conspiracy ,Republican ,TikTok ,1,40-49,Female,Lean right,Bachelor's degree
+2022-03-28 21:58:50,No,moon landing,jfk murder,area 54,6,50-59,Female,Moderate/centrist,Bachelor's degree
+2022-03-29 15:50:52,Yes,conspiracy documentary,conspiracy theories,alien conspiracy,8,18-29,Male,Lean right,Bachelor's degree
+2022-03-29 19:39:49,No,Corona Virus,UFO,Government,0,40-49,Female,Moderate/centrist,Bachelor's degree
+2022-03-30 3:15:25,Yes,moon landing faked,9/11 conspiracy,JFK assassination truth,5,40-49,Male,Hard left,Bachelor's degree
+2022-03-31 15:48:55,Yes,top conspiracy theory,new conspiracy theory,most compelling conspiracy theories,3,30-39,Female,Lean left,High school
+2022-03-31 18:59:17,No,New World Order conspiracy,Pizzagate conspiracy,Anthony Bourdain murder conspiracy,1,30-39,Female,Hard left,Bachelor's degree
+2022-03-31 21:32:18,Yes,covid vaccines and chips,9/11,secret alien was found,3,30-39,Female,Moderate/centrist,Associate's degree
+2022-04-01 11:26:32,No,vaccine hoax,mind control weapon,secret biolabs,0,50-59,Female,Lean left,"Graduate degree (M.D., J.D., PhD, etc.)"
+2022-04-01 12:45:04,No,fake news,conspiracies,untruths,0,40-49,Male,Lean left,High school
+2022-04-01 12:45:06,Yes,government spying on phone calls and texts,MK Ultra tech used today,Cloud seeding and human's tech to change the weather,1,30-39,Male,Lean left,High school
+2022-04-01 12:46:11,Yes,9/11 conspiracy,Red Cross Scam,Barrel Oil Conspiracies,7,30-39,Male,Moderate/centrist,Bachelor's degree
+2022-04-01 12:46:00,No,conspiracy,conspiracies,plots,3,50-59,Male,Lean left,Bachelor's degree
+2022-03-31 20:40:14,Yes,alien conspiracy,big foot conspiracy,bermuda triangle conspiracy,0,30-39,Male,Hard left,High school
+2022-04-01 12:48:56,Yes,covid hoax,9/11 hoax,election stolen,4,30-39,Male,Hard right,Bachelor's degree
+2022-04-01 13:13:18,Yes,911 inside job,jetfuel cant melt steel beams,911 conspiracy,1,30-39,Male,Hard left,High school
+2022-04-01 13:21:18,Yes,flat earth,9/11 truth,jfk jr,0,40-49,Male,Lean left,High school
+2022-04-01 13:36:48,Yes,inflation ,war,ufo,2,50-59,Female,Lean right,Associate's degree
+2022-04-01 15:20:00,Yes,was 9/11 staged?,does the government create fake news stories to distract us?,was COVID man made?,1,30-39,Female,Moderate/centrist,Associate's degree
+2022-04-01 16:31:37,Yes,drug company vaccine scam,JFK assassination,moon walk real,9,50-59,Female,Lean left,Associate's degree
+2022-04-02 7:49:09,Yes,What is Q-Anon?,What's happening at Skinwalker Ranch?,Why do some people believe that the world is flat?,2,40-49,Female,Lean left,Bachelor's degree
+2022-04-02 12:07:38,Yes,conspiracy,Weird theories,Scary theories,5,30-39,Female,Lean right,Bachelor's degree
+2022-04-02 13:17:14,No,covid fake,vaccinations cause bad health,vaccinations contain chips,3,60+,Female,Lean right,Bachelor's degree
+2022-04-03 7:55:19,Yes,nba draft frozen envelope,paul mccartney car crash death,who shot jfk,0,30-39,Male,Hard left,High school
+2022-04-03 8:33:35,Yes,flat earth,planet x collision course,weather control machine,7,18-29,Male,Moderate/centrist,Bachelor's degree
+2022-04-03 22:03:58,Yes,Proof of Alien Life ,Time Travelers,Lost Cosmonauts ,10,50-59,Female,Moderate/centrist,High school
+2022-04-04 10:21:17,Yes,flat earth,jfk assassination,ufo,3,30-39,Female,Lean left,Associate's degree
+2022-04-04 16:18:11,Yes,what really happened 911?,Is the stock market rigged?,What election where rigged?,8,40-49,Female,Lean right,Bachelor's degree
+2022-04-05 8:42:03,Yes,JFK assasination,new world order,covid hoax,2,30-39,Female,Moderate/centrist,High school
+2022-04-05 9:33:15,Yes,Flat Earth,Great Reset, White Genocide,2,30-39,Male,Hard right,High school
+2022-04-05 16:24:38,Yes,Las Vegas shooting CIA,Vegas massacre conspiracy,steele dossier conspiracy,4,50-59,Female,Lean right,Bachelor's degree
+2022-04-05 16:38:11,No,flat earth ,reptilians,alien conspiracy,7,40-49,Female,Lean left,High school
+2022-04-05 16:41:47,No,Trump Election ,Aliens Roswell Government,Hoffa Alive,1,40-49,Male,Lean right,"Graduate degree (M.D., J.D., PhD, etc.)"
+2022-04-05 16:42:25,Yes,5G cancer,Hilary Clinton Pizza Pedo,Covid vax cancer,7,50-59,Female,Hard left,Bachelor's degree
+2022-04-05 16:54:07,Yes,9-11 Conspiracy,Qanon,Top Conspiracy Theories ,4,30-39,Male,Lean left,Associate's degree
+2022-04-05 17:11:59,Yes,Vaccines cause autism,QAnon,Chemtrails,0,30-39,Male,Lean left,Bachelor's degree
+2022-04-05 19:02:13,Yes,chemtrails,pizzagate,2020 election scandal,7,40-49,Male,Lean left,High school
+2022-04-05 19:23:03,No,flat earth,chemtrails,illuminati,8,30-39,Male,Moderate/centrist,High school
+2022-04-06 3:47:36,Yes,Subliminal message is Dinsey movies,Michael Jackson still alive,Celebrities that faked their death,6,30-39,Male,Moderate/centrist,Bachelor's degree
+2022-04-06 6:45:55,Yes,jfk asassination,fake moon landing,sasquatch,1,40-49,Male,Moderate/centrist,Associate's degree
+2022-04-06 6:45:38,Yes,hydrochloroquin efficacy against covid,Hunter biden's laptop,stolen election,7,50-59,Male,Lean left,"Graduate degree (M.D., J.D., PhD, etc.)"
+2022-04-07 13:54:33,Yes,Bohemian Grove,Alex Jones,Denver airport,1,30-39,Male,Moderate/centrist,High school
+2022-04-09 7:57:39,Yes,9/11 Truth,Loose Change,9/11 Inside job,1,40-49,Male,Lean left,Bachelor's degree
+2022-04-09 10:40:19,No,Bill Gates,Microsoft,chips in vaccines,9,40-49,Male,Lean left,Bachelor's degree
+2022-04-09 11:23:49,No,QANON,PEDOPHILE RING,SECRET ORGANIZATION,0,50-59,Female,Hard left,High school
+2022-04-09 14:35:45,Yes,JFK's assassination,is covid-19 a hoax?,was the 2020 election rigged?,5,40-49,Female,Hard left,Bachelor's degree
+2022-04-09 16:23:05,Yes,9/11 conspiracy,JFK two shooters,Trump pee tape,2,40-49,Male,Lean left,Bachelor's degree
+2022-04-09 19:23:29,No,Flat earth theory,Fake moon landing,9/11 conspiracy ,2,30-39,Male,Lean left,Bachelor's degree
+2022-04-09 20:27:04,Yes,Q Anon,Flat Earth,Covid Lab Leak,7,18-29,Male,Lean left,High school
+2022-04-10 9:56:22,Yes,covid-19 vaccine,9/11,moon landing,3,30-39,Female,Moderate/centrist,Associate's degree
+2022-04-10 20:54:32,No,jfk assasination,9/11,new world oder,0,30-39,Male,Moderate/centrist,Less than high school
+2022-04-11 8:02:22,No,Conspiracy,off the wall ideas ,common conspiracies ,8,60+,Female,Moderate/centrist,High school
+2022-04-11 18:14:38,No,conspiracy,government,collusion ,4,60+,Female,Lean right,"Graduate degree (M.D., J.D., PhD, etc.)"
+2022-04-11 21:52:36,Yes,Qanon,White Water,Bermuda Triangle,7,30-39,Female,Hard left,Associate's degree
+2022-04-12 18:47:53,Yes,Biblical cosmology,Flat Earth,Mud flood,9,40-49,Female,Hard right,Associate's degree
+2022-04-13 14:50:15,Yes,geoengineering,covid tests,ivermectin use for covid,9,60+,Female,Hard right,Associate's degree
