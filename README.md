@@ -10,18 +10,21 @@ you will find 5 files across two parts: raw survey data, grouping queries, and a
 **1. Raw data**  
 
 filename: [YT IP survey_October 11, 2022_08.46.csv](YT%20IP%20survey_October%2011%2C%202022_08.46.csv)  
-This file contains all data collected from 309 responses to our survey. Below are the column names relevant to this study:
+This file contains all relevant data collected from 309 responses to our survey. The data was edited from the raw version to include only the columns 
+relevant to this study. The second row is the question presented to the survey participants, every row following is one participant's response. 
+Below are the column names relevant to this study:
 
 - Queries used in audit
-  - Q4: queries_1
-  - Q4: queries_2
-  - Q4: queries_3
+  - queries_1
+  - queries_2
+  - queries_3
 - Demographics
-  - Q1: news freq_1
-  - Q7: age
-  - Q8: gender
-  - Q9: politics
-  - Q10: education
+  - search
+  - news freq
+  - age
+  - gender
+  - politics
+  - education
  
 filename: [allQueries.csv](allQueries.csv)  
 This file contains all unique queries collected from the survey that were then used as input data for the audit
@@ -41,7 +44,10 @@ the IP (if no IP, the value is None), the Wikipedia category and handpicked topi
 isContext, isFactCheck, isNews which indicate the IP type on the SERP.
 
 filename: *[final_df.json](final_df.json)  
-Data between December 2021 and April 2022.
+Data between December 2021 and April 2022. This zip file contains the full data with 138,880 data points. 
+
+filename: *[final_df_sampled.json](final_df_sampled.json)  
+This file contains 1000 randomly sampled data points from the full data. 
 
 filename: *[oct_df.json](oct_df.json)  
 Follow-up data from October 2023.
