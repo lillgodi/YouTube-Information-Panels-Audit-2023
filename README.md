@@ -43,7 +43,7 @@ collected, the location of the virtual machine on Google Cloud, the query inputt
 the IP (if no IP, the value is None), the Wikipedia category and handpicked topic associated with the query, and 
 isContext, isFactCheck, isNews which indicate the IP type on the SERP.
 
-filename: *[final_df.json](final_df.json)  
+filename: *[final_df.zip](final_df.zip)  
 Data between December 2021 and April 2022. This zip file contains the full data with 138,880 data points. 
 
 filename: *[final_df_sampled.json](final_df_sampled.json)  
